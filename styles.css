@@ -1,0 +1,25 @@
+html {
+  text-align: center;
+}
+
+.textleft {
+  text-align: left;
+}
+
+H1 {
+font-size: 60px;
+}
+
+H5{
+  font-stretch: ultra-condensed;
+}
+
+Body {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+Table{
+  text-align: left;
+
+}
